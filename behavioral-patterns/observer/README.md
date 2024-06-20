@@ -47,7 +47,7 @@ You can checkout the examples in the repo.
 
 ## Contributing
 
-We welcome contributions! If you have examples in different programming languages or improvements to existing ones, please fork the repository and create a pull request. Ensure to follow the contribution guidelines and maintain the folder structure.
+We welcome contributions! If you have examples in c# programming language or improvements to existing ones, please fork the repository and create a pull request. Ensure to follow the contribution guidelines and maintain the folder structure.
 
 ## License
 
