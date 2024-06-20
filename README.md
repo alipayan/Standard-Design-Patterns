@@ -30,7 +30,7 @@ Creational patterns deal with object creation mechanisms, trying to create objec
 - Prototype
 - Singleton
 
-[Read more about Creational Patterns](creational-patterns/README.md)
+[Read more about Creational Patterns](creational-patterns)
 
 ### Structural Patterns
 
@@ -44,7 +44,7 @@ Structural patterns explain how to assemble objects and classes into larger stru
 - Flyweight
 - Proxy
 
-[Read more about Structural Patterns](structural-patterns/README.md)
+[Read more about Structural Patterns](structural-patterns)
 
 ### Behavioral Patterns
 
@@ -62,7 +62,7 @@ Behavioral patterns are concerned with algorithms and the assignment of responsi
 - Template Method
 - Visitor
 
-[Read more about Behavioral Patterns](behavioral-patterns/README.md)
+[Read more about Behavioral Patterns](behavioral-patterns)
 
 ## Contributing
 
