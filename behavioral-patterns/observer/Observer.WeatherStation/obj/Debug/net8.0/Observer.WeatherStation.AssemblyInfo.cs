@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Observer.WeatherStation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+851f43eaac1d3fb7f734d0d9445ec6e0c477a7b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d602a14a6fcefb6dfc690aed78766d91a40f852")]
 [assembly: System.Reflection.AssemblyProductAttribute("Observer.WeatherStation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Observer.WeatherStation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
