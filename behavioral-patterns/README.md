@@ -6,17 +6,17 @@ Behavioral design patterns are concerned with algorithms and the assignment of r
 
 This folder contains examples and explanations of the following behavioral design patterns:
 
-1. [Chain of Responsibility](chain-of-responsibility/README.md)
-2. [Command](command/README.md)
-3. [Interpreter](interpreter/README.md)
-4. [Iterator](iterator/README.md)
-5. [Mediator](mediator/README.md)
-6. [Memento](memento/README.md)
+1. [Chain of Responsibility](chain-of-responsibility)
+2. [Command](command)
+3. [Interpreter](interpreter)
+4. [Iterator](iterator)
+5. [Mediator](mediator)
+6. [Memento](memento)
 7. [Observer](observer)
-8. [State](state/README.md)
-9. [Strategy](strategy/README.md)
-10. [Template Method](template-method/README.md)
-11. [Visitor](visitor/README.md)
+8. [State](state)
+9. [Strategy](strategy)
+10. [Template Method](template-method)
+11. [Visitor](visitor)
 
 ## Pattern Descriptions
 
@@ -66,7 +66,7 @@ The Visitor pattern allows you to add further operations to objects without havi
 
 ## Contributing
 
-We welcome contributions! If you have examples in different programming languages or improvements to existing ones, please fork the repository and create a pull request. Ensure to follow the contribution guidelines and maintain the folder structure.
+We welcome contributions! If you have examples in c# programming language or improvements to existing ones, please fork the repository and create a pull request. Ensure to follow the contribution guidelines and maintain the folder structure.
 
 ## License
 
