@@ -12,7 +12,7 @@ This folder contains examples and explanations of the following behavioral desig
 4. [Iterator](iterator/README.md)
 5. [Mediator](mediator/README.md)
 6. [Memento](memento/README.md)
-7. [Observer](observer/README.md)
+7. [Observer](observer)
 8. [State](state/README.md)
 9. [Strategy](strategy/README.md)
 10. [Template Method](template-method/README.md)
