@@ -1,8 +1,6 @@
-﻿using Observer.WeatherStation.Abstractions;
+﻿namespace Observer.WeatherStation;
 
-namespace Observer.WeatherStation;
-
-public interface IWeatherStation : IObservable
+public interface IWeatherStation
 {
 
     public void SetTemperature(int temperature);

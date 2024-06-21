@@ -2,7 +2,7 @@
 
 namespace Observer.WeatherStation;
 
-public class WeatherStation : IWeatherStation
+public class WeatherStation : IWeatherStation, IObservable
 {
     private int _temperature;
     private readonly IList<IObserver> observers;
