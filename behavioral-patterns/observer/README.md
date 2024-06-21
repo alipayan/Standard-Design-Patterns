@@ -18,9 +18,13 @@ The key components of the Observer Pattern are:
 - **ConcreteSubject**: A concrete implementation of the subject.
 - **ConcreteObserver**: A concrete implementation of the observer.
 
-## UML Diagram
+## UML Class Diagram
 
-![Observer Pattern UML Diagram](uml-diagram.png)
+![Observer Pattern UML Class Diagram](ObserverPattern.drawio.png)
+
+## UML Sequence Diagram
+
+![Observer Pattern UML Sequence Diagram](SequentialDiagramObserverPattern.drawio.svg)
 
 ## Example
 
