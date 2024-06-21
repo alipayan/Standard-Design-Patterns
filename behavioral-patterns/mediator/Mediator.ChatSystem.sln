@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator.ChatSystem", "Mediator.ChatSystem\Mediator.ChatSystem.csproj", "{AFE3B34C-61F7-40FB-8547-3C30987D6129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFE3B34C-61F7-40FB-8547-3C30987D6129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE3B34C-61F7-40FB-8547-3C30987D6129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE3B34C-61F7-40FB-8547-3C30987D6129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE3B34C-61F7-40FB-8547-3C30987D6129}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
