@@ -1,4 +1,8 @@
 # Standard Design Patterns
+ 
+<div align="center">
+	<img src="https://www.vtc.com/files/images/courses/33767.jpeg">
+</div>
 
 Welcome to the **Standard Design Patterns** repository! This project aims to provide clear, concise examples of the Gang of Four (GoF) design patterns implemented in c# programming languages. These examples will help you understand and apply these fundamental design principles in your own projects.
 
