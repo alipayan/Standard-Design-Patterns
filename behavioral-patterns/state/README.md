@@ -44,6 +44,7 @@ Here is an example of the State Pattern implemented in c# language which you can
 ## References
 
 - Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides
+- [State blog in refoctoring.guru](https://refactoring.guru/design-patterns/state)
 
 ## Contributing
 
