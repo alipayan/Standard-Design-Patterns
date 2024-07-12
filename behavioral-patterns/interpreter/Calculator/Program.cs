@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Calculator;
+
+String expression = "2 + 3 * 4";
+
+// Create interpreter
+Context context = new Context();
+Interpreter interpreter = new Interpreter(context);
+
+// Interpret expression
+int result = interpreter.Interpret(expression);
+Console.WriteLine("Result: " + result);
