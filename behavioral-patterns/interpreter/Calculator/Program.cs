@@ -1,6 +1,6 @@
 ﻿using Calculator;
 
-String expression = "2 + 3 * 4";
+string expression = "2 + 3 * 4";
 
 // Create interpreter
 Context context = new Context();
