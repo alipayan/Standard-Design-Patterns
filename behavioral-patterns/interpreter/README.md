@@ -22,7 +22,7 @@ The key components of the Interpreter Pattern are:
 
 ## UML Diagram
 
-![Interpreter Pattern UML Diagram](uml-diagram.png)
+![Interpreter Pattern UML Diagram](InterpreterClassDiagram.png)
 
 ## Example
 
