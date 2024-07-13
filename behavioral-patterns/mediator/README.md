@@ -19,7 +19,7 @@ The key components of the Mediator Pattern are:
 
 ## UML Diagram
 
-![Mediator Pattern UML Diagram](uml-diagram.png)
+![Mediator Pattern UML Diagram](MediatorClassDiagram.png)
 
 ## Example
 
