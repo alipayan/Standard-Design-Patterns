@@ -12,7 +12,7 @@ internal class AdditionExpression : IExpression
         this.right = right;
     }
 
-    public int Interpret(Context context)
+    protected internal int Interpret(Context context)
     {
         return left.Interpret(context) + right.Interpret(context);
     }

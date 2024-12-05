@@ -3,6 +3,6 @@
 
 public interface IExpression
 {
-    public int Interpret(Context context);
+    protected internal int Interpret(Context context);
 }
 
